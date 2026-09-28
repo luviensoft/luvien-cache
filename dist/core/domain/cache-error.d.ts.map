@@ -1,0 +1,1 @@
+{"version":3,"file":"cache-error.d.ts","sourceRoot":"","sources":["../../../src/core/domain/cache-error.ts"],"names":[],"mappings":"AAAA,qBAAa,UAAW,SAAQ,KAAK;aAGjB,KAAK,CAAC,EAAE,OAAO;gBAD/B,OAAO,EAAE,MAAM,EACC,KAAK,CAAC,EAAE,OAAO,YAAA;CAMlC;AAED,qBAAa,uBAAwB,SAAQ,UAAU;CAAG;AAC1D,qBAAa,oBAAqB,SAAQ,UAAU;CAAG;AACvD,qBAAa,uBAAwB,SAAQ,UAAU;CAAG;AAC1D,qBAAa,mBAAoB,SAAQ,UAAU;CAAG"}

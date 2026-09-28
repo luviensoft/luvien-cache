@@ -1,0 +1,1 @@
+{"version":3,"file":"cache-serializer.port.d.ts","sourceRoot":"","sources":["../../../src/core/port/cache-serializer.port.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,eAAe;IAC9B,SAAS,CAAC,KAAK,EAAE,OAAO,GAAG,MAAM,GAAG,UAAU,CAAC;IAC/C,WAAW,CAAC,CAAC,EAAE,KAAK,EAAE,MAAM,GAAG,UAAU,GAAG,CAAC,CAAC;CAC/C"}
